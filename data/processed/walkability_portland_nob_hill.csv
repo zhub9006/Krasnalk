@@ -1,0 +1,2 @@
+neighborhood_id,name,city,state,postal_code,longitude,latitude,overall_livability,walkability_score,restaurants_score,sports_recreation_score,services_score,parks_green_spaces_score,education_score,groceries_score,healthcare_score,entertainment_score,shopping_score,public_transport_score,restaurants_count,restaurants_avg_dist_m,sports_count,parks_count,education_count,tree_count,heritage_tree_count,data_source,date_collected
+nob-hill-portland-97210,Nob Hill,Portland,OR,97210,-122.6985653,45.5317733,3.5,10,9.8,8.7,8.8,4.3,2.9,0,0,0,0,0,89,543.0,2,3,2,20,1,OSMnx,2025-07-13
